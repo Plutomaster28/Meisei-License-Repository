@@ -1,32 +1,55 @@
 # Meisei Open-Source License
 
-Hello there! If you're reading this that means that you either forked Zora or are viewing the files, no need to worry, this is the open GPL version, meaning that it is: open-source!
+**Version 1.1**
 
-You have the right to:
-- Modify
-- Distribute
-- Private use
-- Commercial use
-- Patent use*
+## 1. License Grant
 
-But, if you decide to do any of these, you must meet the conditions as follows:
-- **Disclose source:**
-  - Source code must be made available when license material is distributed
-- **License and Copyright notice:**
-  - License and copyright notice must be included with material
-- **Network use IS distribution:**
-  - Users who interact with the licensed material via network are given the right to receive a copy of the source code
-- **Same license:**
-  - Modifications must be released under a similar, related, or the same license when distributing the licensed material
-- **State changes:**
-  - Changes made to the licensed material must be documented
+You are granted the following rights:
 
-Thank you for taking the time to read this. If users are found to not comply though, Tomoko or Meisei hold the right to seek compensation or a recall of the product as not following any of the conditions is in violation of the license.
+- **Modification**: You may modify the source code.
+- **Distribution**: You may distribute the source code or modified versions of the source code.
+- **Private Use**: You may use the source code or modifications for personal, non-commercial purposes.
+- **Commercial Use**: You may use the source code or modifications for commercial purposes.
+- **Patent Use**: You may use, distribute, or modify the code without fear of patent claims related to the licensed material.
 
-*users who copy source-code cannot patent Meisei or Tomoko functions (pieces of code written by them), users also cannot remove the copyright or license file from the program, as that will also be a violation.
+## 2. Conditions
 
-Signed:
+To exercise the above rights, you must comply with the following conditions:
 
-Tomoko Saito - 2024/01/11 18:11
+- **Source Code Disclosure**: When distributing the licensed material, the source code must be made available.
+- **License and Copyright Notice**: The license and copyright notice must be included with all copies or substantial portions of the material.
+- **Network Use is Distribution**: If you use the licensed material in a network-based environment, you must provide users with access to the source code.
+- **Same License**: Modifications must be licensed under this license or a compatible license.
+- **State Changes**: You must document changes made to the licensed material.
 
-Meisei Technologies - 2024/01/11 18:12
+## 3. Additional Terms
+
+- **No Patents on Code**: Users cannot patent the code or any derived works from the licensed material. The copyright and license notice must not be removed from the program.
+
+## 4. Enforcement
+
+Failure to comply with these conditions will result in a breach of the license. In such cases, Meisei Technologies and Tomoko Saito reserve the right to seek compensation or demand the recall of the product.
+
+## 5. Disclaimer
+
+The licensed material is provided "as is," without warranty of any kind. The copyright holders are not responsible for any claims, damages, or other liabilities.
+
+## 6. Contact Information
+
+For further information, contact:
+
+**Tomoko Saito**  
+Meisei Technologies  
+[Additional information on how to get into contact](https://miyamii-coms.carrd.co/)
+
+**Signed:**
+
+Tomoko Saito  
+Date: 2024/01/11
+
+Meisei Technologies  
+Date: 2024/01/11
+
+---
+
+Updated: 2024/09/08
